@@ -2,7 +2,7 @@
 A Pac-Man game on linux in terminal written in pure C++.
 
 ## Related information
-+ Writer: C.Xavier
++ Writer: Tonhie(THY)
 + Version: 1.0.4_base
 + Sponsors: One autumn leaf & The cat staring at the sky
 
